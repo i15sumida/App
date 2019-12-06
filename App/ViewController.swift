@@ -46,7 +46,7 @@ extension String {
         print("return : true")
         return true
     }
-    // 文字列の高さを取得する関数
+    // 文字列の高さを取得する関数¬
     // font : 使用フォント
     // 返り値 : 文字列の高さ(CGFloat型)
     func getStringHeight(_ font: UIFont) -> CGFloat {
@@ -229,7 +229,9 @@ class ViewController: UIViewController, CBCentralManagerDelegate, CBPeripheralDe
     
     //ボタン名を出力するメソッド(keyboard delegate protocol　にメソッドを要求)
     func keyWasTapped(character: String) {
-            textview.insertText(character)
+
+        //どこに文字を入れるん？？？？？？？？
+        writePeripheral(character)
     }
     
     //最初の画面に戻る

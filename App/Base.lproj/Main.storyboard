@@ -202,16 +202,19 @@
                                     <attributedString key="attributedTitle">
                                         <fragment content="黒">
                                             <attributes>
+                                                <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <font key="NSFont" size="15" name=".HiraKakuInterface-W3"/>
                                             </attributes>
                                         </fragment>
                                         <fragment content="→">
                                             <attributes>
+                                                <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <font key="NSFont" metaFont="system" size="15"/>
                                             </attributes>
                                         </fragment>
                                         <fragment content="タップ　">
                                             <attributes>
+                                                <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <font key="NSFont" size="15" name=".HiraKakuInterface-W3"/>
                                             </attributes>
                                         </fragment>
@@ -220,6 +223,7 @@
 Cg
 </string>
                                             <attributes>
+                                                <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <font key="NSFont" metaFont="system" size="15"/>
                                             </attributes>
                                         </fragment>
@@ -237,14 +241,7 @@ Cg
                                                 <font key="NSOriginalFont" metaFont="system" size="15"/>
                                             </attributes>
                                         </fragment>
-                                        <fragment content="左">
-                                            <attributes>
-                                                <color key="NSColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                                <font key="NSFont" size="15" name=".HiraKakuInterface-W3"/>
-                                                <font key="NSOriginalFont" metaFont="system" size="15"/>
-                                            </attributes>
-                                        </fragment>
-                                        <fragment content="フリック">
+                                        <fragment content="上フリック">
                                             <attributes>
                                                 <color key="NSColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <font key="NSFont" size="15" name=".HiraKakuInterface-W3"/>
@@ -252,7 +249,7 @@ Cg
                                         </fragment>
                                         <fragment content="　">
                                             <attributes>
-                                                <color key="NSColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <font key="NSFont" size="11" name=".HiraKakuInterface-W3"/>
                                             </attributes>
                                         </fragment>
@@ -261,6 +258,7 @@ Cg
 Cg
 </string>
                                             <attributes>
+                                                <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <font key="NSFont" metaFont="system" size="15"/>
                                             </attributes>
                                         </fragment>
@@ -276,7 +274,7 @@ Cg
                                                 <font key="NSFont" metaFont="system" size="15"/>
                                             </attributes>
                                         </fragment>
-                                        <fragment content="上フリック">
+                                        <fragment content="右フリック">
                                             <attributes>
                                                 <color key="NSColor" red="0.016804177310000001" green="0.19835099580000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <font key="NSFont" size="15" name=".HiraKakuInterface-W3"/>
@@ -284,6 +282,7 @@ Cg
                                         </fragment>
                                         <fragment content="　　　">
                                             <attributes>
+                                                <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <font key="NSFont" size="15" name=".HiraKakuInterface-W3"/>
                                             </attributes>
                                         </fragment>
@@ -292,6 +291,7 @@ Cg
 Cg
 </string>
                                             <attributes>
+                                                <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <font key="NSFont" metaFont="system" size="15"/>
                                             </attributes>
                                         </fragment>
@@ -307,7 +307,7 @@ Cg
                                                 <font key="NSFont" metaFont="system" size="15"/>
                                             </attributes>
                                         </fragment>
-                                        <fragment content="右フリック">
+                                        <fragment content="下フリック">
                                             <attributes>
                                                 <color key="NSColor" red="0.0" green="0.56031829119999998" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <font key="NSFont" size="15" name=".HiraKakuInterface-W3"/>
@@ -333,7 +333,7 @@ Cg
                 <placeholder placeholderIdentifier="IBFirstResponder" id="xAD-Oz-C0R" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <exit id="prv-8V-Yhy" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
-            <point key="canvasLocation" x="1048.125" y="747.88732394366195"/>
+            <point key="canvasLocation" x="1047.2" y="747.78325123152717"/>
         </scene>
     </scenes>
 </document>

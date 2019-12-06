@@ -152,14 +152,14 @@
                             </fragment>
                             <fragment content="LD">
                                 <attributes>
-                                    <color key="NSColor" red="0.016804177310000001" green="0.19835099580000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <color key="NSColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     <font key="NSFont" metaFont="system"/>
                                     <font key="NSOriginalFont" size="9" name="Times-Roman"/>
                                 </attributes>
                             </fragment>
                             <fragment content=" ">
                                 <attributes>
-                                    <color key="NSColor" red="0.016804177310000001" green="0.19835099580000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <color key="NSColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     <font key="NSFont" metaFont="system"/>
                                 </attributes>
                             </fragment>
@@ -171,7 +171,7 @@
                             </fragment>
                             <fragment content="ST">
                                 <attributes>
-                                    <color key="NSColor" red="0.0" green="0.56031829119999998" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <color key="NSColor" red="0.016804177310000001" green="0.19835099580000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     <font key="NSFont" metaFont="system"/>
                                 </attributes>
                             </fragment>
@@ -181,35 +181,6 @@
                         <action selector="keyTappedWithSender:" destination="-1" eventType="touchUpInside" id="Jej-yA-30v"/>
                         <outletCollection property="gestureRecognizers" destination="RDG-og-HlZ" appends="YES" id="r0Y-Y7-uLF"/>
                         <outletCollection property="gestureRecognizers" destination="PA8-Vg-App" appends="YES" id="Twz-gQ-JpW"/>
-                    </connections>
-                </button>
-                <button opaque="NO" tag="108" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="2Uc-Fn-Hux">
-                    <rect key="frame" x="77" y="65" width="45" height="45"/>
-                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                    <gestureRecognizers/>
-                    <color key="tintColor" cocoaTouchSystemColor="darkTextColor"/>
-                    <state key="normal">
-                        <attributedString key="attributedTitle">
-                            <fragment>
-                                <string key="content">IN
-</string>
-                                <attributes>
-                                    <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                                    <font key="NSFont" metaFont="system" size="20"/>
-                                </attributes>
-                            </fragment>
-                            <fragment content="OUT">
-                                <attributes>
-                                    <color key="NSColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                    <font key="NSFont" metaFont="label" size="12"/>
-                                </attributes>
-                            </fragment>
-                        </attributedString>
-                    </state>
-                    <connections>
-                        <action selector="keyTappedWithSender:" destination="-1" eventType="touchUpInside" id="ypp-hA-VmA"/>
-                        <outletCollection property="gestureRecognizers" destination="vNn-CQ-O0o" appends="YES" id="5Nz-9A-IA2"/>
                     </connections>
                 </button>
                 <button opaque="NO" tag="102" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="9VN-bH-JJM">
@@ -254,8 +225,8 @@
                         <outletCollection property="gestureRecognizers" destination="9nH-Py-gmj" appends="YES" id="53y-Nq-u9d"/>
                     </connections>
                 </button>
-                <button opaque="NO" tag="112" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="blw-yJ-SEY">
-                    <rect key="frame" x="305" y="65" width="68" height="45"/>
+                <button opaque="NO" tag="111" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="blw-yJ-SEY">
+                    <rect key="frame" x="256" y="65" width="68" height="45"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                     <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     <gestureRecognizers/>
@@ -314,7 +285,7 @@
                             </fragment>
                             <fragment content="JNC">
                                 <attributes>
-                                    <color key="NSColor" red="0.016804177310000001" green="0.19835099580000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <color key="NSColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     <font key="NSFont" metaFont="system"/>
                                     <font key="NSOriginalFont" metaFont="system"/>
                                 </attributes>
@@ -327,7 +298,7 @@
                             </fragment>
                             <fragment content="JNM">
                                 <attributes>
-                                    <color key="NSColor" red="0.0" green="0.56031829119999998" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <color key="NSColor" red="0.016804177310000001" green="0.19835099580000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     <font key="NSFont" metaFont="system"/>
                                 </attributes>
                             </fragment>
@@ -511,8 +482,8 @@
                         <outletCollection property="gestureRecognizers" destination="Aef-h4-IES" appends="YES" id="Ydm-mO-iSi"/>
                     </connections>
                 </button>
-                <button opaque="NO" tag="109" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="tnX-OY-BQ1">
-                    <rect key="frame" x="126" y="65" width="55" height="45"/>
+                <button opaque="NO" tag="108" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="tnX-OY-BQ1">
+                    <rect key="frame" x="77" y="65" width="55" height="45"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                     <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     <gestureRecognizers/>
@@ -540,8 +511,8 @@
                         <outletCollection property="gestureRecognizers" destination="Qno-Gp-xTp" appends="YES" id="vcE-yG-fcl"/>
                     </connections>
                 </button>
-                <button opaque="NO" tag="110" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="5PO-Z3-zKM">
-                    <rect key="frame" x="186" y="65" width="55" height="45"/>
+                <button opaque="NO" tag="109" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="5PO-Z3-zKM">
+                    <rect key="frame" x="137" y="65" width="55" height="45"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                     <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     <gestureRecognizers/>
@@ -569,33 +540,66 @@
                         <outletCollection property="gestureRecognizers" destination="tSm-W2-sU5" appends="YES" id="0Tt-3v-MoX"/>
                     </connections>
                 </button>
-                <button opaque="NO" tag="111" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="aZ7-cS-9Dd">
-                    <rect key="frame" x="245" y="65" width="55" height="45"/>
+                <button opaque="NO" tag="110" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="aZ7-cS-9Dd">
+                    <rect key="frame" x="196" y="65" width="55" height="45"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                     <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     <gestureRecognizers/>
                     <color key="tintColor" cocoaTouchSystemColor="darkTextColor"/>
                     <state key="normal">
                         <attributedString key="attributedTitle">
+                            <fragment content="IN">
+                                <attributes>
+                                    <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
+                                    <font key="NSFont" size="20" name="Helvetica"/>
+                                    <font key="NSOriginalFont" size="20" name="Helvetica"/>
+                                </attributes>
+                            </fragment>
                             <fragment>
-                                <string key="content">EI
+                                <string key="content" base64-UTF8="YES">
+Cg
 </string>
                                 <attributes>
                                     <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                                    <font key="NSFont" metaFont="system" size="20"/>
+                                    <font key="NSFont" size="20" name="AlBayan"/>
+                                    <font key="NSOriginalFont" size="20" name="AlBayan"/>
+                                </attributes>
+                            </fragment>
+                            <fragment content="OUT">
+                                <attributes>
+                                    <color key="NSColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <font key="NSFont" size="10" name="Helvetica"/>
+                                    <font key="NSOriginalFont" size="10" name="Helvetica"/>
+                                </attributes>
+                            </fragment>
+                            <fragment content=" ">
+                                <attributes>
+                                    <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
+                                    <font key="NSFont" size="10" name="Helvetica"/>
+                                    <font key="NSOriginalFont" size="10" name="Helvetica"/>
+                                </attributes>
+                            </fragment>
+                            <fragment content="EI ">
+                                <attributes>
+                                    <color key="NSColor" red="0.016804177310000001" green="0.19835099580000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <font key="NSFont" size="10" name="Helvetica"/>
+                                    <font key="NSOriginalFont" size="10" name="Helvetica"/>
                                 </attributes>
                             </fragment>
                             <fragment content="DI">
                                 <attributes>
-                                    <color key="NSColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                    <font key="NSFont" metaFont="system"/>
+                                    <color key="NSColor" red="0.0" green="0.56031829119999998" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <font key="NSFont" size="10" name="Helvetica"/>
+                                    <font key="NSOriginalFont" size="10" name="Helvetica"/>
                                 </attributes>
                             </fragment>
                         </attributedString>
                     </state>
                     <connections>
                         <action selector="keyTappedWithSender:" destination="-1" eventType="touchUpInside" id="2VE-zz-uLm"/>
-                        <outletCollection property="gestureRecognizers" destination="asQ-X4-55c" appends="YES" id="PLZ-Qg-5A8"/>
+                        <outletCollection property="gestureRecognizers" destination="8Rs-Tu-9MM" appends="YES" id="VPA-N8-EvU"/>
+                        <outletCollection property="gestureRecognizers" destination="jvd-hM-Fsj" appends="YES" id="bWs-pM-ZBR"/>
+                        <outletCollection property="gestureRecognizers" destination="9sK-C8-4ly" appends="YES" id="FcT-wt-J7b"/>
                     </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="064-RM-p6b">
@@ -708,6 +712,34 @@
                         <action selector="keyTappedWithSender:" destination="-1" eventType="touchUpInside" id="YUm-wg-Cwm"/>
                     </connections>
                 </button>
+                <button opaque="NO" tag="112" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="2Uc-Fn-Hux">
+                    <rect key="frame" x="328" y="65" width="45" height="45"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <gestureRecognizers/>
+                    <color key="tintColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <state key="normal">
+                        <attributedString key="attributedTitle">
+                            <fragment>
+                                <string key="content">DC
+</string>
+                                <attributes>
+                                    <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
+                                    <font key="NSFont" metaFont="system" size="20"/>
+                                </attributes>
+                            </fragment>
+                            <fragment content="DS">
+                                <attributes>
+                                    <color key="NSColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <font key="NSFont" metaFont="system" size="20"/>
+                                </attributes>
+                            </fragment>
+                        </attributedString>
+                    </state>
+                    <connections>
+                        <action selector="keyTappedWithSender:" destination="-1" eventType="touchUpInside" id="ypp-hA-VmA"/>
+                    </connections>
+                </button>
             </subviews>
             <color key="backgroundColor" systemColor="opaqueSeparatorColor" red="0.77647058820000003" green="0.77647058820000003" blue="0.7843137255" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
@@ -724,52 +756,52 @@
                 <action selector="ST:" destination="-1" id="vcU-B5-mqe"/>
             </connections>
         </swipeGestureRecognizer>
-        <swipeGestureRecognizer direction="left" id="EzO-Ut-DD5">
+        <swipeGestureRecognizer direction="up" id="EzO-Ut-DD5">
             <connections>
                 <action selector="SUB:" destination="-1" id="XK8-jT-PaF"/>
             </connections>
         </swipeGestureRecognizer>
-        <swipeGestureRecognizer direction="up" id="9nH-Py-gmj">
+        <swipeGestureRecognizer direction="right" id="9nH-Py-gmj">
             <connections>
                 <action selector="CMP:" destination="-1" id="aAz-lj-c6H"/>
             </connections>
         </swipeGestureRecognizer>
-        <swipeGestureRecognizer direction="left" id="KFn-dl-xub">
+        <swipeGestureRecognizer direction="up" id="KFn-dl-xub">
             <connections>
                 <action selector="OR:" destination="-1" id="dIP-AU-mwj"/>
             </connections>
         </swipeGestureRecognizer>
-        <swipeGestureRecognizer direction="up" id="xqi-7d-1LG">
+        <swipeGestureRecognizer direction="right" id="xqi-7d-1LG">
             <connections>
                 <action selector="XOR:" destination="-1" id="XGA-En-sg5"/>
             </connections>
         </swipeGestureRecognizer>
-        <swipeGestureRecognizer direction="left" id="jeE-dJ-arE">
+        <swipeGestureRecognizer direction="up" id="jeE-dJ-arE">
             <connections>
                 <action selector="SHLL:" destination="-1" id="RGI-RO-1ii"/>
             </connections>
         </swipeGestureRecognizer>
-        <swipeGestureRecognizer direction="up" id="GTI-MD-9rZ">
+        <swipeGestureRecognizer direction="right" id="GTI-MD-9rZ">
             <connections>
                 <action selector="SHRA:" destination="-1" id="Njj-kM-r8S"/>
             </connections>
         </swipeGestureRecognizer>
-        <swipeGestureRecognizer direction="right" id="PGI-Mr-1wR">
+        <swipeGestureRecognizer direction="down" id="PGI-Mr-1wR">
             <connections>
                 <action selector="SHRL:" destination="-1" id="Zpp-in-Dso"/>
             </connections>
         </swipeGestureRecognizer>
-        <swipeGestureRecognizer direction="left" id="Kpg-ZK-Xx9">
+        <swipeGestureRecognizer direction="up" id="Kpg-ZK-Xx9">
             <connections>
                 <action selector="JC:" destination="-1" id="6wG-Bh-pmb"/>
             </connections>
         </swipeGestureRecognizer>
-        <swipeGestureRecognizer direction="up" id="lpU-mj-pVC">
+        <swipeGestureRecognizer direction="right" id="lpU-mj-pVC">
             <connections>
                 <action selector="JM:" destination="-1" id="6jf-dx-Wgz"/>
             </connections>
         </swipeGestureRecognizer>
-        <swipeGestureRecognizer direction="left" id="Aef-h4-IES">
+        <swipeGestureRecognizer direction="up" id="Aef-h4-IES">
             <connections>
                 <action selector="CALL:" destination="-1" id="GSL-eT-8dN"/>
             </connections>
@@ -784,49 +816,54 @@
                 <action selector="JNM:" destination="-1" id="afL-78-JDv"/>
             </connections>
         </swipeGestureRecognizer>
-        <swipeGestureRecognizer direction="left" id="vNn-CQ-O0o">
-            <connections>
-                <action selector="OUT:" destination="-1" id="w4V-rw-n3d"/>
-            </connections>
-        </swipeGestureRecognizer>
-        <swipeGestureRecognizer direction="left" id="Qno-Gp-xTp">
+        <swipeGestureRecognizer direction="up" id="Qno-Gp-xTp">
             <connections>
                 <action selector="PUSHF:" destination="-1" id="ACG-4T-QkI"/>
             </connections>
         </swipeGestureRecognizer>
-        <swipeGestureRecognizer direction="left" id="tSm-W2-sU5">
+        <swipeGestureRecognizer direction="up" id="tSm-W2-sU5">
             <connections>
                 <action selector="POPF:" destination="-1" id="v9F-en-lga"/>
             </connections>
         </swipeGestureRecognizer>
-        <swipeGestureRecognizer direction="left" id="asQ-X4-55c">
+        <swipeGestureRecognizer direction="up" id="9sK-C8-4ly">
             <connections>
-                <action selector="DI:" destination="-1" id="ypZ-bm-RtA"/>
+                <action selector="OUT:" destination="-1" id="Kdj-Tp-x1W"/>
             </connections>
         </swipeGestureRecognizer>
-        <swipeGestureRecognizer direction="left" id="kye-jM-qk5">
+        <swipeGestureRecognizer direction="up" id="kye-jM-qk5">
             <connections>
                 <action selector="RETI:" destination="-1" id="aoC-E5-Cit"/>
             </connections>
         </swipeGestureRecognizer>
-        <swipeGestureRecognizer direction="up" id="vBu-rW-Zod">
+        <swipeGestureRecognizer direction="right" id="vBu-rW-Zod">
             <connections>
                 <action selector="HALT:" destination="-1" id="WJ5-7r-qY4"/>
             </connections>
         </swipeGestureRecognizer>
-        <swipeGestureRecognizer direction="left" id="oah-ur-5Qd">
+        <swipeGestureRecognizer direction="up" id="oah-ur-5Qd">
             <connections>
                 <action selector="G1_Keyboard:" destination="-1" id="o56-Xo-ZDZ"/>
             </connections>
         </swipeGestureRecognizer>
-        <swipeGestureRecognizer direction="up" id="TPa-9W-RP8">
+        <swipeGestureRecognizer direction="right" id="TPa-9W-RP8">
             <connections>
                 <action selector="G2_Keyboard:" destination="-1" id="icu-2D-O9f"/>
             </connections>
         </swipeGestureRecognizer>
-        <swipeGestureRecognizer direction="right" id="bQl-Y2-y0i">
+        <swipeGestureRecognizer direction="down" id="bQl-Y2-y0i">
             <connections>
                 <action selector="SP_Keyboard:" destination="-1" id="XTg-dR-CHZ"/>
+            </connections>
+        </swipeGestureRecognizer>
+        <swipeGestureRecognizer direction="up" id="jvd-hM-Fsj">
+            <connections>
+                <action selector="EI:" destination="-1" id="fwQ-aM-5gW"/>
+            </connections>
+        </swipeGestureRecognizer>
+        <swipeGestureRecognizer direction="right" id="8Rs-Tu-9MM">
+            <connections>
+                <action selector="DI:" destination="-1" id="mI4-yL-6V9"/>
             </connections>
         </swipeGestureRecognizer>
     </objects>
